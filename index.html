@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.8.0/chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.3/moment.min.js"></script>
+    <title>Document</title>
+    <link rel="stylesheet" href="C:\Users\Himani\Desktop\FlaskFolder\ML_Project\templates\style.css">
+</head>
+
+<body>
+    <center>
+        {% if res %}
+        <h2 style="color:blue;">Hello, the result is {{res}}</h2>
+        {% endif %}
+    </center>
+
+    <div style="background-color:aquamarine; padding-top:2%; padding-bottom: 2%;">
+        <p style="font-size:80px;">Enter Features of Car: </p>
+        <br>
+        <form class="grid" action="/result" method="post">
+            
+            <label for="year" style="font-size:50px; margin-left: 5%;">Year: </label>
+            <input type="number" name="year" id="year" style="font-size:30px; height:50px; width:500px; margin-left: 19%; " required>
+            <br>
+            <br>
+            <label for="engineHP" style="font-size:50px; margin-left: 5%;">Engine Horse Power: </label>
+            <input type="number" name="engineHP" id="engineHP" style="font-size:30px; height:50px; width:500px; margin-left: 5%;" required>
+            <br>
+            <br>
+            <label for="engineCylinders" style="font-size:50px; margin-left: 5%;">Engine Cylinders: </label>
+            <input type="number" name="engineCylinders" id="engineCylinders" style="font-size:30px; height:50px; width:500px; margin-left: 8%;" required>
+            <br>
+            <br>
+            <label for="numberofDoors" style="font-size:50px; margin-left: 5%;">Number of Doors: </label>
+            <input type="number" name="numberofDoors" id="numberofDoors" style="font-size:30px; height:50px; width:500px; margin-left: 8%;" required>
+            <br>
+            <br>
+            <label for="highwaympg" style="font-size:50px; margin-left: 5%;">Highway MPG: </label>
+            <input type="number" name="highwaympg" id="highwaympg" style="font-size:30px; height:50px; width:500px; margin-left: 10%;" required>
+            <br>
+            <br>
+            <label for="cityMPG" style="font-size:50px; margin-left: 5%;">City MPG: </label>
+            <input type="number" name="cityMPG" id="cityMPG" style="font-size:30px; height:50px; width:500px; margin-left: 14.5%;" required>
+            <br>
+            <br>
+            <label for="popularity" style="font-size:50px; margin-left: 5%;">Popularity: </label>
+            <input type="number" name="popularity" id="popularity" style="font-size:30px; height:50px; width:500px; margin-left: 14.5%;" required>
+            <br>
+            <br>
+            <label for="engineFuelType_n" style="font-size:50px; margin-left: 5%;">Engine Fuel Type: </label>
+            <input type="text" name="engineFuelType_n" id="engineFuelType_n" style="font-size:30px; height:50px; width:500px; margin-left: 8%;" required>
+            <br>
+            <br>
+            <label for="transmissionType_n" style="font-size:50px; margin-left: 5%;">Transmission Type: </label>
+            <input type="text" name="transmissionType_n" id="transmissionType_n" style="font-size:30px; height:50px; width:500px; margin-left: 7%;" required>
+            <br>
+            <br>
+            <label for="drivenWheels_n" style="font-size:50px; margin-left: 5%;">Driven Wheels: </label>
+            <input type="text" name="drivenWheels_n" id="drivenWheels_n" style="font-size:30px; height:50px; width:500px; margin-left: 10.5%;" required>
+            <br>
+            <br>
+            <label for="vehicleSize_n" style="font-size:50px; margin-left: 5%;">Vehicle Size: </label>
+            <input type="text" name="vehicleSize_n" id="vehicleSize_n" style="font-size:30px; height:50px; width:500px; margin-left: 12.5%;" required>
+            <br>
+            <br>
+            <label for="vehicleStyle_n" style="font-size:50px; margin-left: 5%;">Vehicle Style: </label>
+            <input type="text" name="vehicleStyle_n" id="vehicleStyle_n" style="font-size:30px; height:50px; width:500px; margin-left: 12%;" required>
+            <br>
+            <br>
+            <input type="submit" class="file_submit" style="width:400px; height:70px; margin-left: 5%; margin-top: 5%;">        
+        </form>
+    </div>
+    
+</body>
+
+</html>

@@ -1,0 +1,663 @@
+Make,Year,EngineFuelType,EngineHP,EngineCylinders,TransmissionType,DrivenWheels,NumberofDoors,MarketCategory,VehicleSize,VehicleStyle,highwayMPG,citympg,Popularity,MSRP
+BMW,2011,premium unleaded (required),335,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,19,3916,46135
+BMW,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,28,19,3916,40650
+BMW,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,36350
+BMW,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,18,3916,29450
+BMW,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,18,3916,34500
+BMW,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,18,3916,31200
+BMW,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,26,17,3916,44100
+BMW,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,39300
+BMW,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,18,3916,36900
+BMW,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,27,18,3916,37200
+BMW,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,39600
+BMW,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,19,3916,31500
+BMW,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,28,19,3916,44400
+BMW,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Luxury,Compact,Convertible,28,19,3916,37200
+BMW,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,28,19,3916,31500
+BMW,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,25,18,3916,48250
+BMW,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Coupe,28,20,3916,43550
+Audi,1992,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,1992,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,1992,petrol,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,20,16,3105,2000
+Audi,1992,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,1992,petrol,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,21,16,3105,2000
+Audi,1993,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,1993,petrol,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,20,16,3105,2000
+Audi,1993,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,1993,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,24,17,3105,2000
+Audi,1993,petrol,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,21,16,3105,2000
+Audi,1994,petrol,172,6,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Wagon,21,16,3105,2000
+Audi,1994,petrol,172,6,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,22,16,3105,2000
+Audi,1994,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,22,17,3105,2000
+Audi,1994,petrol,172,6,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,22,16,3105,2000
+Audi,1994,petrol,172,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,21,16,3105,2000
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,35,23,3916,32850
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Compact,Convertible,34,23,3916,38650
+BMW,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,31,20,3916,48750
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Compact,Coupe,35,23,3916,34850
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Compact,Convertible,34,22,3916,40650
+BMW,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,31,20,3916,44150
+BMW,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,34,22,3916,32850
+BMW,2016,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,30,20,3916,46150
+BMW,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,30,20,3916,50750
+BMW,2017,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,31,21,3916,46450
+BMW,2017,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,32,21,3916,49050
+BMW,2017,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,32,21,3916,51050
+BMW,2017,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,32,21,3916,44450
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,34,23,3916,38950
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Compact,Coupe,35,24,3916,33150
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Compact,Coupe,33,24,3916,35150
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Luxury,Compact,Convertible,33,23,3916,40950
+Audi,1990,petrol,162,5,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,20,16,3105,2000
+Audi,1990,petrol,162,5,MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,22,15,3105,2000
+Audi,1990,petrol,162,5,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,23,15,3105,2000
+Audi,1991,petrol,217,5,MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,22,16,3105,2000
+Audi,1991,petrol,217,5,MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Wagon,22,16,3105,2000
+Audi,1991,petrol,162,5,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,20,16,3105,2000
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Midsize,4dr Hatchback,30,20,3916,47250
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,33,22,3916,41850
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,33,22,3916,41850
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,34,22,3916,43000
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Midsize,4dr Hatchback,30,20,3916,49200
+BMW,2017,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Midsize,4dr Hatchback,30,20,3916,49650
+BMW,2017,premium unleaded (required),248,4,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Midsize,4dr Hatchback,33,23,3916,43950
+BMW,2015,premium unleaded (required),241,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,33,22,3916,41950
+BMW,2015,premium unleaded (required),335,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance,Hybrid",Midsize,Sedan,33,25,3916,50150
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,35,23,3916,37500
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,32,21,3916,43750
+BMW,2015,diesel,180,4,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,45,32,3916,39000
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,39500
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,39500
+BMW,2015,premium unleaded (required),180,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,35,23,3916,34950
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,30,20,3916,45750
+BMW,2015,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Wagon,43,31,3916,43450
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,35,23,3916,37500
+BMW,2015,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,43,31,3916,41000
+BMW,2015,premium unleaded (required),180,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,36,24,3916,32950
+BMW,2016,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,40,30,3916,41850
+BMW,2016,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,33,22,3916,47800
+BMW,2016,diesel,180,4,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,42,32,3916,39850
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,22,3916,38350
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,34,22,3916,40350
+BMW,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,22,3916,38350
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,34,22,3916,42650
+BMW,2016,premium unleaded (required),180,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,36,24,3916,33150
+BMW,2016,premium unleaded (required),180,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,35,23,3916,35150
+BMW,2016,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Wagon,40,30,3916,44150
+BMW,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,33,22,3916,45800
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,23,3916,38750
+BMW,2017,premium unleaded (recommended),180,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,35450
+BMW,2017,premium unleaded (recommended),180,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,35,23,3916,33450
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,23,3916,40750
+BMW,2017,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,40,30,3916,42250
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,33,23,3916,42950
+BMW,2017,diesel,180,4,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Midsize,Sedan,42,32,3916,40250
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,21,3916,49900
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,32,21,3916,47900
+BMW,2017,diesel,180,4,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Wagon,40,30,3916,44450
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,42300
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,40300
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,40300
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,22,3916,42300
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,32,21,3916,45800
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,20,3916,47800
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,34,22,3916,43650
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,30,20,3916,49950
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,20,3916,47950
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Luxury,Midsize,Sedan,34,23,3916,41650
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Midsize,Sedan,32,21,3916,48300
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,21,3916,50300
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,33,23,3916,43950
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Midsize,Sedan,34,23,3916,41950
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,20,3916,56900
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,32,21,3916,46250
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,33,21,3916,50750
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,33,22,3916,42750
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,48750
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,30,20,3916,48250
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,33,22,3916,42750
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,33,21,3916,50750
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,35,23,3916,40750
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,31,20,3916,54900
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,48750
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,35,23,3916,40750
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,33,21,3916,52000
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,50000
+BMW,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,34,22,3916,41850
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,30,20,3916,50150
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,35,23,3916,41850
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,20,3916,58950
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,34,22,3916,43850
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,31,20,3916,48150
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,31,20,3916,56950
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Luxury,Midsize,Convertible,34,23,3916,50300
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,32,22,3916,52300
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,31,21,3916,50500
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,33,23,3916,44150
+BMW,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,34,23,3916,42150
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,30,20,3916,59300
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,21,3916,57300
+BMW,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,32,21,3916,48500
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Hatchback,Luxury",Large,4dr Hatchback,28,19,3916,60700
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Large,4dr Hatchback,24,16,3916,71400
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Large,4dr Hatchback,26,18,3916,63000
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Hatchback,Luxury,Performance",Large,4dr Hatchback,25,16,3916,69100
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Large,4dr Hatchback,26,18,3916,63200
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Large,4dr Hatchback,24,16,3916,72500
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Hatchback,Luxury",Large,4dr Hatchback,28,19,3916,60900
+BMW,2017,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury",Large,4dr Hatchback,26,18,3916,63200
+BMW,2017,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Hatchback,Luxury,Performance",Large,4dr Hatchback,27,19,3916,60900
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Hatchback,Luxury,Performance",Large,4dr Hatchback,24,15,3916,72500
+BMW,2015,premium unleaded (required),443,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,16,3916,67200
+BMW,2015,premium unleaded (required),302,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,29,20,3916,57900
+BMW,2015,diesel,255,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,38,26,3916,57100
+BMW,2015,premium unleaded (required),241,4,AUTOMATIC,all wheel drive,4,Luxury,Large,Sedan,33,22,3916,52250
+BMW,2015,diesel,255,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,37,26,3916,59400
+BMW,2015,premium unleaded (required),443,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,17,3916,64900
+BMW,2015,premium unleaded (required),241,4,AUTOMATIC,rear wheel drive,4,Luxury,Large,Sedan,34,23,3916,49950
+BMW,2015,premium unleaded (required),302,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,31,20,3916,55600
+BMW,2016,diesel,255,6,AUTOMATIC,rear wheel drive,4,"Diesel,Luxury",Large,Sedan,38,26,3916,57350
+BMW,2016,premium unleaded (required),302,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,29,20,3916,58150
+BMW,2016,premium unleaded (required),302,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,31,20,3916,55850
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Luxury,Large,Sedan,34,22,3916,52500
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Luxury,Large,Sedan,34,23,3916,50200
+BMW,2016,premium unleaded (required),443,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,16,3916,68600
+BMW,2016,premium unleaded (required),443,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,17,3916,66300
+BMW,2016,diesel,255,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,37,26,3916,59650
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,24,16,3916,92600
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,29,20,3916,81300
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,31,20,3916,78300
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,17,3916,89600
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,24,15,3916,93900
+BMW,2016,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,29,20,3916,82500
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,17,3916,90900
+BMW,2016,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,31,20,3916,79500
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,24,17,3916,91200
+BMW,2017,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,28,19,3916,82800
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,24,15,3916,94200
+BMW,2017,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,29,20,3916,79800
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,"Luxury,High-Performance",Midsize,Convertible,25,17,3916,94900
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,20,3916,86600
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,29,20,3916,79100
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,32,21,3916,76100
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,"Luxury,High-Performance",Midsize,Coupe,25,16,3916,90400
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,31,20,3916,83600
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,"Luxury,High-Performance",Midsize,Coupe,25,17,3916,87400
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,"Luxury,High-Performance",Midsize,Convertible,24,16,3916,97900
+BMW,2016,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,20,3916,87800
+BMW,2016,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,31,20,3916,77300
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,"Luxury,High-Performance",Midsize,Convertible,24,15,3916,99200
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,"Luxury,High-Performance",Midsize,Convertible,25,17,3916,96200
+BMW,2016,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,29,20,3916,80300
+BMW,2016,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,31,20,3916,84800
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,"Luxury,High-Performance",Midsize,Coupe,25,16,3916,91700
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,"Luxury,High-Performance",Midsize,Coupe,25,17,3916,88700
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,"Luxury,High-Performance",Midsize,Coupe,24,16,3916,92000
+BMW,2017,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,30,21,3916,77600
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,"Luxury,High-Performance",Midsize,Coupe,24,17,3916,89000
+BMW,2017,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Coupe,28,19,3916,80600
+BMW,2017,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Convertible,29,20,3916,85100
+BMW,2017,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,"Luxury,Performance",Midsize,Convertible,28,19,3916,88100
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,"Luxury,High-Performance",Midsize,Convertible,24,17,3916,96500
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,"Luxury,High-Performance",Midsize,Convertible,24,15,3916,99500
+BMW,2015,premium unleaded (required),535,12,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,20,13,3916,141200
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,29,19,3916,78000
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,16,3916,91000
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,24,16,3916,94000
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,28,19,3916,81000
+BMW,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,29,19,3916,74000
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,17,3916,87300
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,24,16,3916,90300
+BMW,2015,diesel,255,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,31,23,3916,82500
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,17,3916,94400
+BMW,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,29,21,3916,81300
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,16,3916,97400
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,"Luxury,High-Performance",Large,Sedan,26,17,3916,94600
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,25,16,3916,97600
+BMW,2017,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,28,19,3916,84500
+BMW,2017,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance",Large,Sedan,29,21,3916,81500
+BMW,1995,petrol,282,8,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,22,15,3916,4784
+BMW,1995,petrol,322,12,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,19,12,3916,5858
+BMW,1995,petrol,372,12,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,Performance",Midsize,Coupe,18,10,3916,8488
+BMW,1996,petrol,322,12,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,19,12,3916,6954
+BMW,1996,petrol,282,8,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,19,14,3916,5680
+BMW,1997,petrol,322,12,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,19,12,3916,7624
+BMW,1997,petrol,282,8,AUTOMATIC,rear wheel drive,2,"Luxury,Performance",Midsize,Coupe,19,14,3916,6693
+Audi,1990,petrol,108,4,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,28,19,3105,2000
+Audi,1990,petrol,130,5,MANUAL,all wheel drive,4,Luxury,Compact,Sedan,22,16,3105,2000
+Audi,1991,petrol,130,5,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,18,3105,2000
+Audi,1991,petrol,130,5,MANUAL,all wheel drive,4,Luxury,Compact,Sedan,22,16,3105,2000
+Audi,1992,petrol,130,5,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,18,3105,2000
+Audi,1992,petrol,130,5,MANUAL,all wheel drive,4,Luxury,Compact,Sedan,22,16,3105,2000
+Audi,1993,petrol,172,6,MANUAL,all wheel drive,4,Luxury,Compact,Sedan,20,15,3105,2000
+Audi,1993,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,18,3105,2000
+Audi,1993,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,18,3105,2000
+Audi,1994,petrol,172,6,MANUAL,all wheel drive,4,Luxury,Compact,Sedan,22,17,3105,2000
+Audi,1994,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,18,3105,2000
+Audi,1994,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,18,3105,2000
+Audi,1995,petrol,172,6,MANUAL,all wheel drive,4,Luxury,Compact,Sedan,23,17,3105,2000
+Audi,1995,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,17,3105,2000
+Audi,1995,petrol,172,6,MANUAL,front wheel drive,4,Luxury,Compact,Sedan,24,17,3105,2000
+Audi,2015,diesel,150,4,AUTOMATIC,front wheel drive,4,"Diesel,Luxury",Compact,Sedan,43,31,3105,35150
+Audi,2015,diesel,150,4,AUTOMATIC,front wheel drive,4,"Diesel,Luxury",Compact,Sedan,43,31,3105,32600
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,33,24,3105,33200
+Audi,2015,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,35,24,3105,44050
+Audi,2015,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,33,23,3105,29900
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,33,24,3105,41650
+Audi,2015,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,35,24,3105,38150
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,33,24,3105,35750
+Audi,2015,diesel,150,4,AUTOMATIC,front wheel drive,4,"Diesel,Luxury",Compact,Sedan,43,31,3105,41050
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,32,23,3105,47050
+Audi,2015,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,33,23,3105,38350
+Audi,2015,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,35,24,3105,35600
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,32,23,3105,38600
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,32,23,3105,41150
+Audi,2015,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,33,23,3105,32450
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,33,24,3105,34200
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,32,23,3105,39600
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,33,24,3105,37700
+Audi,2016,diesel,150,4,AUTOMATIC,front wheel drive,4,"Diesel,Luxury",Compact,Sedan,43,31,3105,33200
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,33,24,3105,43050
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,35,24,3105,39300
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,35,24,3105,36600
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,33,23,3105,39750
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,35,24,3105,45450
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,32,23,3105,48450
+Audi,2016,diesel,150,4,AUTOMATIC,front wheel drive,4,"Diesel,Luxury",Compact,Sedan,43,31,3105,36700
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,33,23,3105,34400
+Audi,2016,diesel,150,4,AUTOMATIC,front wheel drive,4,"Diesel,Luxury",Compact,Sedan,43,31,3105,35900
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,32,23,3105,43100
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,33,24,3105,36900
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,33,23,3105,33600
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,33,23,3105,30900
+Audi,2016,premium unleaded (recommended),170,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,35,24,3105,40100
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,32,23,3105,42300
+Audi,2016,diesel,150,4,AUTOMATIC,front wheel drive,4,"Diesel,Luxury",Compact,Sedan,43,31,3105,42050
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,35,26,3105,43150
+Audi,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,35,26,3105,40150
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,35,26,3105,37450
+Audi,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,34,25,3105,37600
+Audi,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,35,26,3105,34450
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,34,25,3105,40300
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,34,25,3105,49250
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,34,25,3105,43550
+Audi,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Compact,Sedan,35,26,3105,31200
+Audi,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,34,25,3105,40850
+Audi,2017,premium unleaded (recommended),186,4,AUTOMATED_MANUAL,front wheel drive,2,Luxury,Compact,Convertible,34,25,3105,46550
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Compact,Sedan,35,26,3105,34200
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,51400
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,44000
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,Luxury,Midsize,Wagon,28,23,3105,47000
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,45000
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,39700
+Audi,2015,premium unleaded (required),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,43800
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,32,24,3105,35500
+Audi,2015,premium unleaded (required),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,38500
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,32,24,3105,37600
+Audi,2015,premium unleaded (required),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,36400
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,32,24,3105,42900
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,37600
+Audi,2016,premium unleaded (required),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,37000
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,38000
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,38000
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,35900
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,40100
+Audi,2016,premium unleaded (required),220,4,MANUAL,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,39100
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,33,25,3105,37300
+Audi,2017,premium unleaded (recommended),190,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,37,27,3105,34900
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,24,3105,48000
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,24,3105,43200
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,33,25,3105,41100
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,front wheel drive,4,"Luxury,Performance",Midsize,Sedan,33,25,3105,45900
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,24,3105,39400
+Audi,2017,premium unleaded (recommended),190,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,37,27,3105,38700
+Audi,2017,premium unleaded (recommended),190,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,37,27,3105,37850
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,24,3105,42350
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,31,22,3105,43800
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Coupe,31,22,3105,41500
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,29,21,3105,47900
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,2,Luxury,Midsize,Convertible,29,21,3105,50200
+Audi,2016,premium unleaded (required),220,4,MANUAL,all wheel drive,2,Luxury,Midsize,Coupe,32,22,3105,40500
+Audi,2016,premium unleaded (required),220,4,MANUAL,all wheel drive,2,Luxury,Midsize,Coupe,32,22,3105,42800
+Audi,2017,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,all wheel drive,2,"Flex Fuel,Luxury",Midsize,Coupe,32,23,3105,41200
+Audi,2017,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,all wheel drive,2,"Flex Fuel,Luxury",Midsize,Convertible,21,15,3105,48600
+Audi,2017,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,all wheel drive,2,"Flex Fuel,Luxury",Midsize,Coupe,22,15,3105,42200
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,38,24,3105,58700
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,29,20,3105,50450
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,33,25,3105,44800
+Audi,2015,premium unleaded (required),310,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,18,3105,60100
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATIC,front wheel drive,4,Luxury,Midsize,Sedan,33,25,3105,48350
+Audi,2015,premium unleaded (required),310,6,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,27,18,3105,56300
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,29,20,3105,46900
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,38,24,3105,62500
+Audi,2016,premium unleaded (recommended),252,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,52100
+Audi,2016,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,35,24,3105,49900
+Audi,2016,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,35,24,3105,46200
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,38,25,3105,59500
+Audi,2016,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,30,20,3105,61600
+Audi,2016,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,30,20,3105,57400
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Midsize,Sedan,38,25,3105,63700
+Audi,2016,premium unleaded (recommended),252,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,48400
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,31,22,3105,53800
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,22,3105,61600
+Audi,2017,premium unleaded (required),340,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,31,22,3105,67600
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,29,21,3105,58600
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Sedan,32,22,3105,49800
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,354,24,3105,51600
+Audi,2017,premium unleaded (recommended),252,4,AUTOMATED_MANUAL,front wheel drive,4,Luxury,Midsize,Sedan,34,24,3105,47600
+Audi,2015,premium unleaded (required),310,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,28,18,3105,65900
+Audi,2015,premium unleaded (required),310,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,28,18,3105,69750
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,38,24,3105,68300
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,38,24,3105,72150
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,38,25,3105,70400
+Audi,2016,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,30,20,3105,68300
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,35,24,3105,73050
+Audi,2016,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,30,20,3105,70950
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,29,21,3105,68800
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,29,21,3105,71350
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Diesel,Luxury",Large,Sedan,36,24,3105,85200
+Audi,2016,premium unleaded (required),500,12,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,22,14,3105,137900
+Audi,2016,premium unleaded (required),450,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,29,18,3105,90500
+Audi,2016,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,28,18,3105,81500
+Audi,2017,premium unleaded (required),450,8,AUTOMATIC,all wheel drive,4,"Luxury,High-Performance",Large,Sedan,29,18,3105,91500
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Large,Sedan,29,19,3105,82500
+BMW,2014,premium unleaded (required),335,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance,Hybrid",Large,Sedan,30,23,3916,61400
+BMW,2015,premium unleaded (required),335,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance,Hybrid",Large,Sedan,30,23,3916,61900
+BMW,2016,premium unleaded (required),335,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance,Hybrid",Large,Sedan,30,23,3916,62100
+BMW,2013,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance,Hybrid",Large,Sedan,30,22,3916,84300
+BMW,2014,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance,Hybrid",Large,Sedan,30,22,3916,84300
+BMW,2015,premium unleaded (required),335,6,AUTOMATIC,rear wheel drive,4,"Luxury,Performance,Hybrid",Large,Sedan,30,22,3916,84300
+BMW,2010,premium unleaded (required),480,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance,Hybrid",Midsize,4dr SUV,19,17,3916,88900
+BMW,2011,premium unleaded (required),480,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance,Hybrid",Midsize,4dr SUV,19,17,3916,88900
+Audi,2003,petrol,250,6,MANUAL,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,21,14,3105,39950
+Audi,2003,petrol,250,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,20,15,3105,41000
+Audi,2004,petrol,300,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,19,14,3105,46950
+Audi,2004,petrol,250,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,20,15,3105,39950
+Audi,2004,petrol,250,6,MANUAL,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,21,14,3105,39950
+Audi,2005,petrol,250,6,MANUAL,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,21,14,3105,40250
+Audi,2005,petrol,300,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,19,14,3105,47250
+Audi,2005,petrol,250,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,Wagon,20,15,3105,40250
+Audi,2014,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,27,20,3105,40700
+Audi,2014,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,27,20,3105,43300
+Audi,2014,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,27,20,3105,49200
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,28,21,3105,44500
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,28,21,3105,42400
+Audi,2015,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,28,21,3105,49800
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,28,21,3105,42700
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Luxury,Midsize,Wagon,28,21,3105,44800
+BMW,2015,premium unleaded (required),540,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,16,3916,117300
+BMW,2016,premium unleaded (required),600,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,15,3916,122200
+BMW,2017,premium unleaded (required),600,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,15,3916,122500
+BMW,2014,premium unleaded (required),540,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,16,3916,135200
+BMW,2014,premium unleaded (required),540,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,16,3916,132200
+BMW,2014,premium unleaded (required),540,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,16,3916,131300
+BMW,2014,premium unleaded (required),540,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,16,3916,128300
+BMW,2015,premium unleaded (required),540,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,16,3916,132200
+BMW,2015,premium unleaded (required),540,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,16,3916,131300
+BMW,2015,premium unleaded (required),540,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,16,3916,135200
+BMW,2015,premium unleaded (required),540,8,AUTOMATIC,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,16,3916,128300
+BMW,2017,premium unleaded (required),600,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,16,3916,137000
+BMW,2003,premium unleaded (required),375,8,AUTOMATIC,rear wheel drive,2,"Exotic,Factory Tuner,Luxury,High-Performance",Compact,Convertible,19,13,3916,136900
+Audi,1996,petrol,172,6,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,22,17,3105,2631
+Audi,1997,petrol,172,6,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,22,17,3105,2837
+Audi,1998,petrol,172,6,AUTOMATIC,front wheel drive,2,Luxury,Compact,Convertible,22,17,3105,3137
+Audi,1990,petrol,164,5,MANUAL,all wheel drive,2,"Hatchback,Factory Tuner,Luxury,Performance",Compact,2dr Hatchback,22,16,3105,2000
+Audi,1991,petrol,164,5,MANUAL,all wheel drive,2,"Hatchback,Factory Tuner,Luxury,Performance",Compact,2dr Hatchback,22,15,3105,2000
+BMW,2015,electric,170,0,MANUAL,rear wheel drive,4,"Hatchback,Luxury",Compact,4dr Hatchback,111,137,3916,42400
+BMW,2016,electric,170,0,MANUAL,rear wheel drive,4,"Hatchback,Luxury",Compact,4dr Hatchback,111,137,3916,42400
+BMW,2017,electric,170,0,MANUAL,rear wheel drive,4,"Hatchback,Luxury",Compact,4dr Hatchback,111,137,3916,42400
+BMW,2017,electric,170,0,MANUAL,rear wheel drive,4,"Hatchback,Luxury",Compact,4dr Hatchback,106,129,3916,43600
+BMW,2016,premium unleaded (required),365,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,18,3916,51700
+BMW,2017,premium unleaded (required),365,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,26,18,3916,51700
+BMW,2015,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,62000
+BMW,2016,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,63500
+BMW,2017,premium unleaded (required),425,6,MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3916,64000
+BMW,2016,premium unleaded (required),493,6,AUTOMATED_MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3916,133205
+BMW,2015,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,26,17,3916,64200
+BMW,2015,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,26,17,3916,72500
+BMW,2016,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,26,17,3916,74200
+BMW,2016,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,26,17,3916,65700
+BMW,2017,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,26,17,3916,74700
+BMW,2017,premium unleaded (required),425,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,26,17,3916,66200
+BMW,2014,premium unleaded (required),552,8,AUTOMATED_MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,20,14,3916,92900
+BMW,2015,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,20,14,3916,93600
+BMW,2016,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,20,14,3916,94100
+BMW,2015,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,20,14,3916,115700
+BMW,2016,premium unleaded (required),552,8,AUTOMATED_MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,20,14,3916,117200
+BMW,2017,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,20,14,3916,117500
+BMW,2015,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,20,14,3916,118200
+BMW,2015,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,20,14,3916,111900
+BMW,2016,premium unleaded (required),552,8,AUTOMATED_MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,20,14,3916,119700
+BMW,2016,premium unleaded (required),552,8,AUTOMATED_MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,20,14,3916,113400
+BMW,2017,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,20,14,3916,113700
+BMW,2017,premium unleaded (required),560,8,AUTOMATED_MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,22,15,3916,120000
+BMW,2001,premium unleaded (required),315,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,23,15,3916,44990
+BMW,2001,premium unleaded (required),315,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,23,15,3916,45990
+BMW,2002,premium unleaded (required),315,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,17,3916,44990
+BMW,2006,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,22,14,3916,49300
+BMW,2006,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,22,14,3916,51300
+Audi,2015,premium unleaded (recommended),200,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,29,20,3105,32500
+Audi,2015,premium unleaded (recommended),200,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,29,20,3105,36400
+Audi,2015,premium unleaded (recommended),200,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,38500
+Audi,2015,premium unleaded (recommended),200,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,34600
+Audi,2016,premium unleaded (recommended),200,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,29,20,3105,38600
+Audi,2016,premium unleaded (recommended),200,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,40700
+Audi,2016,premium unleaded (recommended),200,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,29,20,3105,33700
+Audi,2016,premium unleaded (recommended),200,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,35800
+Audi,2017,premium unleaded (recommended),200,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,34500
+Audi,2017,premium unleaded (recommended),200,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,41300
+Audi,2017,premium unleaded (recommended),200,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,36600
+Audi,2017,premium unleaded (recommended),200,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,33900
+Audi,2017,premium unleaded (recommended),200,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,31800
+Audi,2017,premium unleaded (recommended),200,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,28,20,3105,39200
+Audi,2015,premium unleaded (required),272,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,26,18,3105,52900
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,31,24,3105,47500
+Audi,2015,premium unleaded (required),245,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Hybrid",Midsize,4dr SUV,30,24,3105,51900
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,20,3105,42200
+Audi,2015,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,20,3105,39300
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,31,24,3105,55000
+Audi,2015,premium unleaded (required),272,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,26,18,3105,45400
+Audi,2016,premium unleaded (required),272,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,26,18,3105,53500
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,20,3105,40900
+Audi,2016,premium unleaded (required),220,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,20,3105,42750
+Audi,2016,premium unleaded (required),245,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Hybrid",Midsize,4dr SUV,30,24,3105,52500
+Audi,2016,premium unleaded (required),272,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,26,18,3105,46000
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,31,24,3105,48100
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,31,24,3105,57700
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,31,24,3105,50200
+Audi,2016,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,31,24,3105,55600
+Audi,2017,premium unleaded (required),272,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,26,18,3105,53200
+Audi,2017,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,all wheel drive,4,"Crossover,Flex Fuel,Luxury",Midsize,4dr SUV,27,20,3105,40900
+Audi,2017,premium unleaded (required),272,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,26,18,3105,46400
+Audi,2017,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,all wheel drive,4,"Crossover,Flex Fuel,Luxury",Midsize,4dr SUV,27,20,3105,43150
+Audi,2014,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Large,4dr SUV,28,19,3105,64900
+Audi,2014,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Large,4dr SUV,28,19,3105,52900
+Audi,2014,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Large,4dr SUV,22,16,3105,60900
+Audi,2014,premium unleaded (required),280,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Large,4dr SUV,22,16,3105,47700
+Audi,2014,premium unleaded (required),280,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Large,4dr SUV,22,16,3105,53700
+Audi,2014,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Large,4dr SUV,28,19,3105,58900
+Audi,2015,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Large,4dr SUV,22,16,3105,61900
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Large,4dr SUV,28,19,3105,53400
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Large,4dr SUV,28,19,3105,59900
+Audi,2015,premium unleaded (required),280,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Large,4dr SUV,22,16,3105,54800
+Audi,2015,premium unleaded (required),280,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Large,4dr SUV,22,16,3105,48300
+Audi,2015,diesel,240,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Large,4dr SUV,28,19,3105,65400
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Large,4dr SUV,25,19,3105,58800
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Large,4dr SUV,25,19,3105,64300
+Audi,2017,premium unleaded (required),333,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Large,4dr SUV,25,19,3105,54800
+Audi,2014,premium unleaded (required),525,10,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,19,12,3105,164700
+Audi,2014,premium unleaded (required),430,8,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,20,11,3105,128400
+Audi,2014,premium unleaded (required),550,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,22,13,3105,179645
+Audi,2014,premium unleaded (required),525,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,22,13,3105,173800
+Audi,2014,premium unleaded (required),430,8,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,23,14,3105,137500
+Audi,2014,premium unleaded (required),525,10,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,19,12,3105,151200
+Audi,2014,premium unleaded (required),430,8,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,23,14,3105,124000
+Audi,2014,premium unleaded (required),430,8,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,20,11,3105,114900
+Audi,2014,premium unleaded (required),525,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,22,13,3105,160300
+Audi,2014,premium unleaded (required),550,10,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,19,12,3105,170545
+Audi,2015,premium unleaded (required),550,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,22,13,3105,199600
+Audi,2015,premium unleaded (required),430,8,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,23,14,3105,138400
+Audi,2015,premium unleaded (required),430,8,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,23,14,3105,124900
+Audi,2015,premium unleaded (required),525,10,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,19,12,3105,166100
+Audi,2015,premium unleaded (required),570,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,22,13,3105,199900
+Audi,2015,premium unleaded (required),550,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,22,13,3105,182500
+Audi,2015,premium unleaded (required),525,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,22,13,3105,162900
+Audi,2015,premium unleaded (required),430,8,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,20,11,3105,115900
+Audi,2015,premium unleaded (required),430,8,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,20,11,3105,129400
+Audi,2015,premium unleaded (required),550,10,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,19,12,3105,190600
+Audi,2015,premium unleaded (required),525,10,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,19,12,3105,153900
+Audi,2015,premium unleaded (required),525,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Convertible,22,13,3105,175100
+Audi,2015,premium unleaded (required),550,10,MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,19,12,3105,173500
+Audi,2017,premium unleaded (required),540,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,22,14,3105,162900
+Audi,2017,premium unleaded (required),610,10,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,High-Performance",Compact,Coupe,22,14,3105,189900
+Audi,2007,premium unleaded (required),420,8,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,20,13,3105,66000
+Audi,2008,premium unleaded (required),420,8,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,19,12,3105,81900
+Audi,2008,premium unleaded (required),420,8,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,20,13,3105,66910
+Audi,2013,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,23,16,3105,77900
+Audi,2013,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,68900
+Audi,2014,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,69600
+Audi,2014,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,22,16,3105,77900
+Audi,2015,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Convertible,22,16,3105,79200
+Audi,2015,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,23,16,3105,70900
+Audi,2003,premium unleaded (required),450,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,20,14,3105,82700
+Audi,2015,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,16,3105,106500
+Audi,2016,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,15,3105,108900
+Audi,2017,premium unleaded (required),560,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,15,3105,110700
+Audi,2015,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,31,23,3105,41100
+Audi,2015,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,31,23,3105,47000
+Audi,2016,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,31,23,3105,42500
+Audi,2016,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,31,23,3105,48650
+Audi,2017,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,28,21,3105,48400
+Audi,2017,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Compact,Sedan,28,21,3105,42900
+Audi,2014,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,28,18,3105,49500
+Audi,2014,premium unleaded (required),333,6,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3105,54000
+Audi,2014,premium unleaded (required),333,6,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3105,48100
+Audi,2014,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,28,18,3105,55400
+Audi,2015,premium unleaded (required),333,6,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3105,48400
+Audi,2015,premium unleaded (required),333,6,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3105,54300
+Audi,2015,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,28,18,3105,55700
+Audi,2015,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,28,18,3105,49800
+Audi,2016,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,28,18,3105,56100
+Audi,2016,premium unleaded (required),333,6,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3105,55100
+Audi,2016,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,28,18,3105,50200
+Audi,2016,premium unleaded (required),333,6,MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,26,17,3105,49200
+Audi,2016,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Midsize,Convertible,26,18,3105,67350
+Audi,2016,premium unleaded (required),333,6,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,26,17,3105,59350
+Audi,2016,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Midsize,Convertible,26,18,3105,61100
+Audi,2016,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Midsize,Coupe,28,18,3105,54100
+Audi,2016,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Midsize,Coupe,28,18,3105,60350
+Audi,2016,premium unleaded (required),333,6,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,26,17,3105,53100
+Audi,2017,premium unleaded (required),333,6,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Midsize,Coupe,26,17,3105,53100
+Audi,2017,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Midsize,Convertible,26,18,3105,61100
+Audi,2017,premium unleaded (required),333,6,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Midsize,Coupe,28,18,3105,54100
+Audi,2015,premium unleaded (required),420,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,27,17,3105,75500
+Audi,2016,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,27,18,3105,70900
+Audi,2016,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,27,18,3105,75300
+Audi,2017,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,27,18,3105,74100
+Audi,2017,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Midsize,Sedan,27,18,3105,70900
+Audi,2015,premium unleaded (required),420,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,17,3105,82500
+Audi,2016,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,17,3105,82900
+Audi,2017,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,17,3105,82900
+Audi,2017,premium unleaded (required),450,8,AUTOMATED_MANUAL,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,17,3105,79900
+Audi,2015,premium unleaded (required),520,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,27,17,3105,114900
+Audi,2016,premium unleaded (required),520,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,16,3105,114900
+Audi,2016,premium unleaded (required),605,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,25,15,3105,114900
+Audi,2017,premium unleaded (recommended),605,8,AUTOMATIC,all wheel drive,4,"Factory Tuner,Luxury,High-Performance",Large,Sedan,24,15,3105,115900
+Audi,2015,premium unleaded (required),354,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,24,17,3105,52700
+Audi,2015,premium unleaded (required),354,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,24,17,3105,60200
+Audi,2016,premium unleaded (required),354,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,Performance",Midsize,4dr SUV,24,17,3105,53300
+Audi,2016,premium unleaded (required),354,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,Performance",Midsize,4dr SUV,24,17,3105,60800
+Audi,2017,premium unleaded (required),354,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,Performance",Midsize,4dr SUV,24,17,3105,60800
+Audi,2017,premium unleaded (required),354,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,Performance",Midsize,4dr SUV,24,17,3105,53300
+Audi,2012,premium unleaded (required),360,5,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,18,3105,56850
+Audi,2013,premium unleaded (required),360,5,MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,25,18,3105,57200
+Audi,2015,premium unleaded (recommended),211,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,31,22,3105,43350
+Audi,2015,premium unleaded (recommended),211,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Coupe,31,22,3105,40350
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,Performance",Compact,Coupe,30,23,3105,42900
+Audi,2016,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,30,23,3105,46400
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,Luxury,Compact,Convertible,30,23,3105,47000
+Audi,2017,premium unleaded (recommended),220,4,AUTOMATED_MANUAL,all wheel drive,2,"Luxury,Performance",Compact,Coupe,30,23,3105,43500
+Audi,2015,premium unleaded (required),265,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Convertible,31,22,3105,51700
+Audi,2015,premium unleaded (required),265,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Coupe,31,22,3105,48700
+Audi,2016,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,Performance",Compact,Coupe,27,23,3105,51900
+Audi,2017,premium unleaded (required),292,4,AUTOMATED_MANUAL,all wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,27,23,3105,52500
+Audi,1992,petrol,276,8,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,18,13,3105,2000
+Audi,1993,petrol,276,8,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,18,13,3105,2149
+Audi,1994,petrol,276,8,AUTOMATIC,all wheel drive,4,"Luxury,Performance",Midsize,Sedan,18,13,3105,2239
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,34,23,3916,31200
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,32,22,3916,33000
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,27,18,3916,39100
+BMW,2016,premium unleaded (required),228,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,32,22,3916,34800
+BMW,2017,premium unleaded (required),228,4,AUTOMATIC,front wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,32,23,3916,33100
+BMW,2017,premium unleaded (required),228,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Compact,4dr SUV,31,22,3916,35100
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,26,19,3916,45500
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,21,3916,40500
+BMW,2015,diesel,180,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,34,27,3916,42000
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,21,3916,38500
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,21,3916,38950
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,27,19,3916,46800
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,21,3916,40950
+BMW,2016,diesel,180,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,34,27,3916,42450
+BMW,2017,diesel,180,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,34,27,3916,42750
+BMW,2017,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,26,19,3916,47950
+BMW,2017,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,21,3916,41250
+BMW,2017,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,21,3916,39250
+BMW,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,20,3916,44700
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,27,19,3916,48000
+BMW,2016,premium unleaded (required),360,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,25,18,3916,57800
+BMW,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,20,3916,45250
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,27,19,3916,49700
+BMW,2017,premium unleaded (required),355,6,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,26,19,3916,58100
+BMW,2017,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,28,20,3916,45550
+BMW,2015,premium unleaded (required),567,8,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,19,14,3916,98700
+BMW,2016,premium unleaded (required),567,8,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,19,14,3916,98800
+BMW,2017,premium unleaded (required),567,8,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,19,14,3916,98800
+BMW,2015,diesel,255,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,31,24,3916,57700
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,27,19,3916,53900
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,27,18,3916,56200
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,22,15,3916,70100
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,24,18,3916,57000
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,21,15,3916,71500
+BMW,2016,diesel,255,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,30,23,3916,57700
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,25,18,3916,54700
+BMW,2017,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,24,18,3916,57800
+BMW,2017,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,25,18,3916,55500
+BMW,2017,diesel,255,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Diesel",Midsize,4dr SUV,30,23,3916,59300
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,21,15,3916,72300
+BMW,2015,premium unleaded (required),567,8,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,19,14,3916,102100
+BMW,2016,premium unleaded (required),567,8,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,19,14,3916,102200
+BMW,2017,premium unleaded (required),567,8,AUTOMATIC,all wheel drive,4,"Crossover,Factory Tuner,Luxury,High-Performance",Midsize,4dr SUV,19,14,3916,102200
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,27,18,3916,61900
+BMW,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,22,15,3916,72900
+BMW,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,27,19,3916,59600
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,24,18,3916,62900
+BMW,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,25,18,3916,60600
+BMW,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,21,15,3916,75300
+BMW,2017,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,25,18,3916,61400
+BMW,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,"Crossover,Luxury,Performance",Midsize,4dr SUV,21,15,3916,76100
+BMW,2017,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,"Crossover,Luxury",Midsize,4dr SUV,24,18,3916,63700
+BMW,2000,petrol,193,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,24,17,3916,4976
+BMW,2000,petrol,193,6,MANUAL,rear wheel drive,2,"Hatchback,Luxury,Performance",Compact,2dr Hatchback,24,17,3916,4697
+BMW,2000,petrol,170,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,25,17,3916,4755
+BMW,2001,premium unleaded (required),225,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,26,19,3916,37900
+BMW,2001,premium unleaded (required),184,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,25,18,3916,31300
+BMW,2001,premium unleaded (required),225,6,MANUAL,rear wheel drive,2,"Hatchback,Luxury,Performance",Compact,2dr Hatchback,26,19,3916,37700
+BMW,2002,premium unleaded (required),225,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,26,19,3916,37900
+BMW,2002,premium unleaded (required),184,6,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,25,18,3916,31300
+BMW,2002,premium unleaded (required),225,6,MANUAL,rear wheel drive,2,"Hatchback,Luxury,Performance",Compact,2dr Hatchback,26,19,3916,37700
+BMW,2007,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,22,15,3916,50100
+BMW,2007,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,22,15,3916,52100
+BMW,2008,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Coupe,23,15,3916,50400
+BMW,2008,premium unleaded (required),330,6,MANUAL,rear wheel drive,2,"Factory Tuner,Luxury,High-Performance",Compact,Convertible,23,15,3916,52400
+BMW,2014,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,34,22,3916,48950
+BMW,2014,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,26,19,3916,56950
+BMW,2014,premium unleaded (required),335,6,AUTOMATED_MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,24,17,3916,65800
+BMW,2015,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,34,22,3916,48950
+BMW,2015,premium unleaded (required),300,6,AUTOMATED_MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,24,17,3916,56950
+BMW,2015,premium unleaded (required),335,6,AUTOMATED_MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,24,17,3916,65800
+BMW,2016,premium unleaded (required),300,6,AUTOMATED_MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,24,17,3916,57500
+BMW,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,"Luxury,Performance",Compact,Convertible,34,22,3916,49700
+BMW,2016,premium unleaded (required),335,6,AUTOMATED_MANUAL,rear wheel drive,2,"Luxury,High-Performance",Compact,Convertible,24,17,3916,66350
+BMW,2001,premium unleaded (required),394,8,MANUAL,rear wheel drive,2,"Exotic,Luxury,High-Performance",Compact,Convertible,19,12,3916,128000
+BMW,2002,premium unleaded (required),394,8,MANUAL,rear wheel drive,2,"Exotic,Luxury,High-Performance",Compact,Convertible,19,12,3916,130000
+BMW,2003,premium unleaded (required),394,8,MANUAL,rear wheel drive,2,"Exotic,Luxury,High-Performance",Compact,Convertible,19,12,3916,131500
